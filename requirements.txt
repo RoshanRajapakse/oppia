@@ -317,7 +317,7 @@ pyyaml==6.0
     # via
     #   -r requirements.in
     #   libcst
-redis==3.5.3
+redis==4.3.6
     # via
     #   -r requirements.in
     #   google-cloud-ndb
