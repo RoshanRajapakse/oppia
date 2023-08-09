@@ -24,7 +24,7 @@ esprima==4.0.1
     # via -r requirements_dev.in
 future==0.18.2
     # via -r requirements_dev.in
-grpcio==1.41.1
+grpcio==1.53.2
     # via -r requirements_dev.in
 idna==3.3
     # via requests
