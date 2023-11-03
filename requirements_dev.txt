@@ -36,7 +36,7 @@ lazy-object-proxy==1.7.1
     # via astroid
 mccabe==0.6.1
     # via pylint
-pillow==9.0.1
+pillow==10.0.0
     # via -r requirements_dev.in
 platformdirs==2.5.2
     # via pylint
