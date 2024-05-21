@@ -64,7 +64,7 @@ pyyaml==6.0
     # via -r requirements_dev.in
 rcssmin==1.1.1
     # via -r requirements_dev.in
-requests==2.27.1
+requests==2.32.0
     # via pygithub
 six==1.16.0
     # via
