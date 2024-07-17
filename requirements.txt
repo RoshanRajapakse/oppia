@@ -176,7 +176,7 @@ grpc-google-iam-v1==0.12.4
     #   google-cloud-secret-manager
     #   google-cloud-spanner
     #   google-cloud-tasks
-grpcio==1.43.0
+grpcio==1.53.2
     # via
     #   apache-beam
     #   google-api-core
@@ -401,3 +401,4 @@ webob==1.8.7
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
