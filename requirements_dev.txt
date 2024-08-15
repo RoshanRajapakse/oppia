@@ -84,7 +84,7 @@ urllib3==1.26.9
     # via requests
 waitress==2.1.1
     # via webtest
-webob==1.8.7
+webob==1.8.8
     # via webtest
 webtest==3.0.0
     # via -r requirements_dev.in
