@@ -194,7 +194,7 @@ grpcio-status==1.43.0
     # via
     #   google-api-core
     #   google-cloud-pubsublite
-gunicorn==20.1.0
+gunicorn==21.2.0
     # via -r requirements.in
 hdfs==2.6.0
     # via apache-beam
