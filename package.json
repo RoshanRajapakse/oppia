@@ -180,7 +180,7 @@
     "js-yaml": "^4.1.0",
     "leaflet": "^1.4.0",
     "lodash": "^4.17.14",
-    "mathjs": "^9.0.0",
+    "mathjs": "^14.4.0",
     "messageformat": "^2.3.0",
     "mousetrap": "^1.6.5",
     "nerdamer": "^1.1.4",
