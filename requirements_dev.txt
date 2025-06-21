@@ -40,7 +40,7 @@ pillow==9.0.1
     # via -r requirements_dev.in
 platformdirs==2.5.2
     # via pylint
-protobuf==3.13.0
+protobuf==4.25.8
     # via -r requirements_dev.in
 psutil==5.8.0
     # via -r requirements_dev.in
@@ -80,7 +80,7 @@ typing-extensions==4.0.1
     #   -r requirements_dev.in
     #   astroid
     #   pylint
-urllib3==1.26.9
+urllib3==2.5.0
     # via requests
 waitress==2.1.1
     # via webtest
