@@ -265,7 +265,7 @@ proto-plus==1.22.1
     #   google-cloud-secret-manager
     #   google-cloud-tasks
     #   google-cloud-translate
-protobuf==3.20.2
+protobuf==4.25.8
     # via
     #   apache-beam
     #   google-api-core
@@ -384,7 +384,7 @@ typing-utils==0.1.0
     # via overrides
 uritemplate==3.0.1
     # via google-api-python-client
-urllib3==1.26.7
+urllib3==2.5.0
     # via
     #   -r requirements.in
     #   elasticsearch
