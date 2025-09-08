@@ -35,7 +35,7 @@ cloudpickle==2.0.0
     # via apache-beam
 crcmod==1.7
     # via apache-beam
-deepdiff==5.8.1
+deepdiff==8.6.1
     # via -r requirements.in
 defusedxml==0.7.1
     # via -r requirements.in
