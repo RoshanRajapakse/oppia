@@ -40,7 +40,7 @@ pillow==9.0.1
     # via -r requirements_dev.in
 platformdirs==2.5.2
     # via pylint
-protobuf==3.13.0
+protobuf==6.33.5
     # via -r requirements_dev.in
 psutil==5.8.0
     # via -r requirements_dev.in
